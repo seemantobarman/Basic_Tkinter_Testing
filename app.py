@@ -70,8 +70,6 @@ class App:
         self.Entry_7 = tk.Entry(master=top_window, background="#d9d9d9", foreground="#c60000", selectbackground="#f2a343", font=font13)
         self.Entry_7.place(relx=0.18, rely=0.711)
 
-        #_____Calculator_____
-
 
 
 root = tk.Tk()
